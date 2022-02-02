@@ -34,3 +34,11 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+.cart{
+    font-weight: bold;
+    font-size: 3vh;
+    text-align: center;
+    color: darkred;
+    padding-top: 50vh;
+}
